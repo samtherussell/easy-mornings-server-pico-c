@@ -1,0 +1,4 @@
+# CMake build output (also holds the fetched pico-sdk)
+build/
+!.vscode/*
+
